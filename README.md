@@ -2,6 +2,7 @@
 
 ## Requiritments
 [Python](https://www.python.org/downloads/)
+
 [Git](https://www.python.org/downloads/)
 
 ## Tutorial
