@@ -3,7 +3,7 @@
 ## Requiritments
 [Python](https://www.python.org/downloads/)
 
-[Git](https://www.python.org/downloads/)
+[Git](https://git-scm.com/downloads)
 
 ## Tutorial
 `pip install pygame`
