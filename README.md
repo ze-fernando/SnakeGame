@@ -6,11 +6,12 @@
 [Git](https://git-scm.com/downloads)
 
 ## Tutorial
-`pip install pygame`
 
 `git clone https://github.com/ze-fernando/SnakeGame`
 
 `cd SnakeGame`
+
+`pip install pygame`
 
 `python snake.py`
 
