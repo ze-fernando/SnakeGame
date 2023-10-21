@@ -1,6 +1,6 @@
 # SnakeGame
 
-## Requiritments
+## Requirements 
 [Python](https://www.python.org/downloads/)
 
 [Git](https://git-scm.com/downloads)
